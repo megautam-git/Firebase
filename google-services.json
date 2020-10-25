@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "760708097973",
+    "firebase_url": "https://learnoncemore-c5cb0.firebaseio.com",
+    "project_id": "learnoncemore-c5cb0",
+    "storage_bucket": "learnoncemore-c5cb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760708097973:android:af00d71f9d150b99b55bfc",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760708097973-kg5un4dn89j15gl2rklshk1vo0q2c3dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4L8k71Aup6UN5NqBq5TsDoXFVmNAQJvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760708097973-kg5un4dn89j15gl2rklshk1vo0q2c3dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
